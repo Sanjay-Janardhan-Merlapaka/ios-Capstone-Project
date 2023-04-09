@@ -2,7 +2,7 @@
 //  Little_Lemon_iOS_CapstoneUITests.swift
 //  Little Lemon iOS CapstoneUITests
 //
-//  Created by Andrea Consorti on 04/04/23.
+//  Created by Sanjay Janardhan Merlapaka on 09/04/23.
 //
 
 import XCTest
