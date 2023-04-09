@@ -2,7 +2,7 @@
 //  Little_Lemon_iOS_CapstoneApp.swift
 //  Little Lemon iOS Capstone
 //
-//  Created by Andrea Consorti on 04/04/23.
+//  Created by Sanjay Janardhaan Merlapaka on 09/04/23.
 //
 
 import SwiftUI
